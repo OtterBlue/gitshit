@@ -8,10 +8,12 @@ public class holaGit {
 		
 		System.out.println("Hola Git");
 		System.out.println("Hola humano");
-		System.out.println("¿Como estás?");
+		System.out.println("Â¿Como estÃ¡s?");
 		String estado=sc.nextLine();
 		
-		System.out.println("Me alegro de oír de que estas "+estado);
+		System.out.println("Me alegro de oÃ­r de que estas "+estado);
+		
+		System.out.println("VersiÃ³n remota");
 
 		sc.close();
 	}
