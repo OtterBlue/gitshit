@@ -11,8 +11,9 @@ public class holaGit {
 		System.out.println("¿Como estás?");
 		String estado=sc.nextLine();
 		
+		System.out.println("Me alegro de oír de que estas "+estado);
 
-		
+		sc.close();
 	}
 
 }
